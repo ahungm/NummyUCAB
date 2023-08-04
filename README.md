@@ -1,5 +1,5 @@
 # NummyUCAB
 
 <h3>
-  Proyecto de Algoritmos y Programación II
+  Proyecto para el curso de Algoritmos y Programación II
 </h3>
